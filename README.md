@@ -11,7 +11,7 @@ This project uses machine learning and deep learning techniques to classify disa
 ![F1 score](images/model_f1_score.png)
 ![Deep learning model](images/deeplearningmodel.png)
 
-## Contributers
+## Contributors
 - Amirthavarshani Mahadevan
 - Fiyinfoluwa Dideoluwa
 - Flynn Heise
